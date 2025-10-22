@@ -78,7 +78,6 @@
   },
   "devDependencies": {
     "@netlify/functions": "^2.8.2",
-    "@types/serverless-http": "^1.7.7",
     "serverless-http": "^3.2.0",
     "@builder.io/vite-plugin-jsx-loc": "^0.1.1",
     "@tailwindcss/typography": "^0.5.15",
